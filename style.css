@@ -1,0 +1,292 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.sp
+{
+    border: 8px solid transparent;
+    height: 629px;
+}
+#pa
+{
+height: 630px;
+width: 1350px;
+}
+.ge
+{
+    border: 8px solid transparent;
+    height: 629px;
+}
+#es
+{
+    height: 630px;
+    width: 1350px;
+}
+.gh
+{
+    border: 8px solid transparent;
+    height: 629px;
+}
+#jp
+{
+    height: 630px;
+    width: 1350px;
+}
+.ma
+{
+    border: 8px solid transparent;
+    height: 629px;
+}
+#x
+{
+    height: 630px;
+    width: 1350px;
+}
+.do
+{
+    border: 8px solid transparent;
+    height: 629px;
+}
+#ad
+{
+    height: 630px;
+    width: 1350px;
+}
+.fa
+{
+    position: relative;
+    bottom: 3200px;
+    left: 190px;
+color: aliceblue;
+}
+.co
+{
+    position: relative;
+    bottom: 3239px;
+    left: 290px; 
+    color: aliceblue; 
+}
+.dr
+{
+    position: relative;
+    bottom: 3279px;
+    left: 440px;   
+    color: aliceblue;
+}
+.st
+{
+    position: relative;
+    bottom: 3319px;
+    left: 540px; 
+    color: aliceblue;
+}
+.hu
+{
+    position: relative;
+    bottom: 3358px;
+    left: 650px;    
+    color: aliceblue;
+}
+.ri
+{
+    position: relative;
+    bottom: 3399px;
+    left: 850px; 
+    color: aliceblue;
+}
+.nk
+{
+    position: relative;
+    bottom: 3439px;
+    left: 970px;
+    color: aliceblue;   
+}
+.sh
+{
+    position: relative;
+    bottom: 3480px;
+    left: 1200px;
+  color: aliceblue;
+}
+.ch
+{
+    position: relative;
+    bottom: 3200px;
+    left: 100px;
+  color: aliceblue;
+}
+.mi
+{
+    position: relative;
+    bottom: 3200px;
+    left: 100px;
+  color: aliceblue;
+}
+.re
+{   
+    position: relative;
+    bottom: 3200px;
+    left: 100px;
+    background: transparent;
+    height: 60px;
+    width: 150px;
+}
+.ce
+{
+    position: relative;
+    bottom: 2700px;
+  color: aliceblue;
+}
+.ses
+{
+    position: relative;
+    bottom: 2700px;
+    left: 50px;
+  color: aliceblue;
+}
+.wa
+{
+    position: relative;
+    bottom: 2700px;
+    left: 100px;
+    background: transparent;
+    height:50px ;
+    width:130px ;
+}
+.nch
+{
+    position: relative;
+    bottom: 2250px;
+    left: 120px;
+  color: aliceblue;     
+}
+.fm
+{
+    position: relative;
+    bottom: 2250px;
+    left: 90px;
+  color: aliceblue;
+  height: 5px;
+  width: 5px;
+}
+.aw
+{
+    position: relative;
+    bottom: 2230px;
+    left: 220px; 
+    background: transparent;
+    height:50px ;
+    width:130px ;
+}
+.up
+{
+    position: relative;
+    bottom: 1600px;
+    left: 120px;
+  color: aliceblue; 
+}
+.le
+
+{
+    position: relative;
+    bottom: 1590px;
+    left: 190px;
+    background: transparent;
+    height:50px ;
+    width:130px ;
+
+}
+.hh
+{
+   position: relative;
+   bottom: 1290px;
+   left: 100px; 
+   color: aliceblue;
+}
+.nasa
+{
+    position: relative;
+    bottom: 1320px;
+    left: 100px; 
+    color: aliceblue;
+}
+.moo
+{
+    position: relative;
+    bottom: 1350px;
+    left: 100px; 
+    color: aliceblue;
+}
+.mor
+{
+    position: relative;
+    bottom: 1320px;
+    left: 190px; 
+    background: transparent;
+    height:50px ;
+    width:130px ;
+    
+}
+.re:hover
+{
+    background-color: white;
+    transition: 2s;
+    opacity: 20px;
+    transform: scaleY(20px);
+    translate: 20px;
+}
+.wa:hover
+{
+    background-color: white;
+    transition: 2s;
+    
+}
+.aw:hover
+{
+    background-color: white;
+    transition: 2s;
+    opacity: 20px;
+}
+.le:hover
+{    background-color: white;
+    transition: 2s;
+}
+.mor:hover
+{
+    background-color: white;height: 130px;
+    transition: 2s;
+    opacity: 20px;
+}
+.ac
+{
+border: 5px solid transparent;
+height: 80px; 
+width: 130px;
+position: relative;
+bottom: 4306px;
+left: 40px;
+}
+#cc
+{
+height: 130px;
+width: 110px;
+}
+.ada
+{height: 130px;
+    width: 110px;
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    bottom: 4380px;
+    left: 1270px;
+}
+#ic
+{
+    height: 50px;
+    width: 50px;
+}
+@media () {
+    
+}
